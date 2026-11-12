@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/icon-512.png" alt="شعار تطبيق إِيَاد المُسلم" width="168" height="168">
+<img src="assets/icon.png" alt="شعار تطبيق إِيَاد المُسلم" width="168" height="168">
 
 # إِيَاد المُسلم
 
