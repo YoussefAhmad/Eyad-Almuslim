@@ -93,28 +93,6 @@
 - **نسخة احتياطية** من مهامك وأورادك وإعداداتك.
 - انقل بياناتك لجهاز جديد بسهولة عبر ملف محمي بكلمة مرور تختارها.
 
----
-
-## 📸 لقطات الشاشة
-
-<div align="center">
-
-| الرئيسية | المهام | العبادة |
-|:---:|:---:|:---:|
-| <img src="docs/screenshots/home.png" width="220" alt="الرئيسية"> | <img src="docs/screenshots/tasks.png" width="220" alt="المهام"> | <img src="docs/screenshots/worship.png" width="220" alt="العبادة"> |
-
-| المصحف | الأحاديث النبوية | المكتبة الإسلامية |
-|:---:|:---:|:---:|
-| <img src="docs/screenshots/quran.png" width="220" alt="المصحف"> | <img src="docs/screenshots/hadith.png" width="220" alt="الأحاديث النبوية"> | <img src="docs/screenshots/library.png" width="220" alt="المكتبة الإسلامية"> |
-
-| الرقائق | الإحصائيات | الإعدادات |
-|:---:|:---:|:---:|
-| <img src="docs/screenshots/wellbeing.png" width="220" alt="الرقائق"> | <img src="docs/screenshots/stats.png" width="220" alt="الإحصائيات"> | <img src="docs/screenshots/settings.png" width="220" alt="الإعدادات"> |
-
-</div>
-
----
-
 ## ⬇️ التحميل
 
 1. ادخل على صفحة **[الإصدارات (Releases)](../../releases)** في هذا المستودع.
